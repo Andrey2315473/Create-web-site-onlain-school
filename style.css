@@ -1,0 +1,37 @@
+body {
+    width: 1146px;
+    margin: auto;
+    background-color: #b7b7b7;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    color: #0038AF;
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.Search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -18px;
+    margin-left: 116px;   
+}
+
+.Shapka {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -20px;
+    gap: 19px;
+}
+
+.line {
+    display: flex;
+    border-bottom: 1px solid #2D57B1;
+    margin-top: 15px;
+}
